@@ -1,0 +1,7 @@
+baseURL = "https://elementaryai.github.io"
+languageCode = "en-us"
+title = "Elementary AI"
+theme = "beautifulhugo"
+
+[Params]
+  logo = "img/eai-logo.png"
